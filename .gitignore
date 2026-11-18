@@ -1,0 +1,13 @@
+.env
+.env.*
+.venv/
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+.pytest_cache/
+dist/
+*.zip
+*.log
+*.csv
+!samples/synthetic_baseline.csv
+!samples/synthetic_evaluation.csv
